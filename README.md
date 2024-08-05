@@ -12,6 +12,10 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository c
 ## resource (DSA PLAYLIST)
 
 ```bash
-(DSA PLAYLIST) - https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+```
 
-(COURSE FLOW)  - https://whimsical.com/data-struc-6DE1hxV9GVS12UdSpKM6Ym
+## course flow
+```bash
+ https://whimsical.com/data-struc-6DE1hxV9GVS12UdSpKM6Ym
+```
