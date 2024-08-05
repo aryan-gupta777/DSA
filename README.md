@@ -9,15 +9,9 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository c
 3. **Revision**: To act as a quick reference and revision tool for key DSA concepts, especially useful for exam preparation or technical interviews.
 4. **Collaboration**: To encourage contributions and collaborative learning by providing a platform where others can contribute their implementations and improvements.
 
-
-## Course Flow
-
-```bash
-https://whimsical.com/data-struc-6DE1hxV9GVS12UdSpKM6Ym
-
-
-
 ## resource (DSA PLAYLIST)
 
 ```bash
-https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+(DSA PLAYLIST) - https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+
+(COURSE FLOW)  - https://whimsical.com/data-struc-6DE1hxV9GVS12UdSpKM6Ym
