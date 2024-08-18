@@ -1,0 +1,32 @@
+ Binary Search Explanation:
+        NOTE :   Binary Search can be Only Applied on Sorted Arrays
+        let Array is -->  [1,2,3,4]      key = 4
+        here,
+                indices -->   0   1   2   3
+                            [ 1,  2,  3,  4 ]
+                              /            \
+                            start          end
+        mid = start + (end - start)/2  -->  0 + (3-0)/2   --> 3/2  --> 1
+
+        Step1 :   arr[mid]  = arr[1] --> 2    Not Equal to 4 (key)
+        Step2 :   arr[mid] > key   -->  2 > 4    FALSE
+        Step3 :   arr[mid] < key   -->  2 < 4    TRUE   --> Search in Right Sub Array
+                    start --> mid + 1
+                      [ 1,  2,  3,  4 ]
+        indices -->     0   1   2   3
+                                /   \
+                              start end
+       
+        Now , mid = 2 + (3-2)/2   --> 2 + 1/2  -->  2 + 0 --> 2
+        step1 :  arr[mid] = arr[2] --> 3  Not Equal to 4 (key)
+        step2 :  arr[mid] > key    --> 3 > 4   FALSE
+        step3 :  arr[mid] < key    --> 3 < 4    TRUE  --> Search in Right SUb Array
+        now,   start --> mid + 1
+                      [ 1,  2,  3,  4 ]
+        indices -->     0   1   2   3
+                                    /\
+                               start end
+        Hence , mid = 3 + (3-3)/2  --> 3 + 0   --> 3
+        step1:  arr[mid] = arr[3] -->  4   YES Equals to 4 (key)   --> return true
+
+        
