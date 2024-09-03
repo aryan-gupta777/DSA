@@ -1,0 +1,6 @@
+https://www.naukri.com/code360/problems/reverse-the-array_1262298
+https://leetcode.com/problems/merge-sorted-array/
+https://leetcode.com/problems/move-zeroes/description/
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+https://www.naukri.com/code360/problems/sum-of-two-arrays_893186
+https://leetcode.com/problems/rotate-array/description/
