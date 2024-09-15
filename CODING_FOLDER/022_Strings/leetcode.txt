@@ -1,0 +1,9 @@
+- Reverse a String:    https://leetcode.com/problems/reverse-string/description/
+- Check Palindrome:    https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633?utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_5
+- Valid Palindrome:    https://leetcode.com/problems/valid-palindrome/description/
+- Maximum occurring character: https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1 
+- Remove all occurrences of substring: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
+- String Compression(re solve it):         https://leetcode.com/problems/string-compression/description/ 
+- Permutation in Strings(re solve it):     https://leetcode.com/problems/permutation-in-string/description/
+- Remove adjacent Duplicates: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
+- Replace Spaces:      https://www.naukri.com/code360/problems/replace-spaces_1172172?leftPanelTabValue=PROBLEM
